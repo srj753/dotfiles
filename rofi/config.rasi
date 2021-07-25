@@ -1,0 +1,7 @@
+/** Basic config file **/
+configuration{
+lines: 10;
+modi: "window,drun";
+width: 30;
+}
+@import "/usr/share/rofi/themes/nodic.rasi"
